@@ -1,3 +1,3 @@
-# Dasar Pemrograman - Jobsheet 5
+# Dasar Pemrograman - Jobsheet 1
 
 Commit dan push hasil praktikum jobsheet 1
